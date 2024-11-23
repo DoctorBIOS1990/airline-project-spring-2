@@ -1,0 +1,235 @@
+*{
+   font-family: "MontSerrat Medium";
+}
+
+/*@font-face{
+    src:url('./fonts/Montserrat-Medium.ttf');
+    font-family: "MontSerrat Medium";
+}*/
+
+body{
+    background-color: #343a40;
+    background-image: url('/images/Fondo2.jpg')!important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width:100%;
+    height:100%
+}
+
+.card-header{
+    color: white;
+}
+
+.jumbotron{
+  color: white;
+  background-color: transparent;
+  padding: 0 0;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+h3{
+    color:white;
+}
+
+p, label, th, td, Perdon{
+    color:white !important;
+}
+
+img{
+    border:none !important;
+}
+
+Perdon h3{
+    padding-bottom:0;
+}
+
+.btnBotones a, .btnBotones input{
+    background-color: #2a2a2a;
+    border-color: #ffffff99;
+    transition: all .45s ease;
+    font-weight: Bold;
+    color: white;
+}
+
+.btnBotones a:Hover{
+    background-color: #ccc;
+    border-color: black;
+    color: black !important;
+    font-weight: Bold;
+}
+
+a{
+    transition: all .45s ease;
+    cursor:pointer;
+}
+
+.dataTables_info{
+    color:white !important;
+}
+
+#myTable_next,#myTable_previous {
+    color:white !important;
+}
+
+.dataTables_paginate span {
+    color:white !important;
+}
+
+hr{
+    border-color:white;
+}
+
+.buttons-pdf {
+    background-color:#eb7e7e;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    width: 128px;
+    height:40px;
+    font-weight: Bold;
+    transition: all .45s ease;
+}
+
+#balloon{
+    background-color:red;
+    border-radius: 8px;
+    padding-left:10px;
+    padding-right:10px;
+}
+
+.Presentar, .Formulario, .Login{
+    opacity: 90%;
+}
+
+#Tiempo tr, #Tiempo td{
+    padding: 0;
+}
+/***********/
+:root{
+    --span:cornflowerblue;
+    --fronColor: cornflowerblue;
+    --background:#2a2a2a;
+    --textColor: #fff;
+    --secondaryColor:#ccc;
+    --border-bottom:#ffffff1a;
+    --secondaryBackground: #333333;
+    --boxBackground:#ffffff99;
+    --textButtonHover:#010101;
+    --readHover:#202020;
+}
+
+.contact{
+    background: #343a40;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    gap: 2.5rem;
+    opacity:90%;
+}
+
+.contact-text h4{
+    color: var(--textColor);
+    margin: 18px 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact-text{
+        padding-right:50px;
+        padding-left:50px;
+        padding-top:50px;
+}
+
+.contact-text h2{
+    color: white;
+    margin: 18px 0;
+    font-size: 2rem;
+    line-height: 1;
+}
+
+.contact-text p{
+    color: var(--textColor);
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 30px;
+}
+
+.contact-form form{
+    position: relative;
+}
+
+.contact-form form input,
+#comentario{
+    width: 100%;
+    padding: 14px;
+    background: var(--readHover);
+    color: var(--textColor);
+    border:none;
+    outline: none;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+
+.contact-form textarea{
+    resize: none;
+    height: 240px;
+}
+
+.contact-form .submit{
+    display: inline-block;
+    font-size: 16px;
+    background: var(--span);
+    color: var(--textColor);
+    width: 160px;
+    transition: all .45s ease;
+}
+
+.contact-form .submit:hover{
+    transform:scale(1.1);
+    cursor: pointer;
+}
+
+.last-text p{
+   color: #ccc;
+   font-size: 14px;
+}
+
+.top a{
+    padding: 10px;
+    border-radius: 8px;
+    font-size:15px;
+    font-weight: bolder;
+    color: var(--textColor);
+    background: var(--fronColor);
+    font-size: 14px;
+    transition: all .5s ease;
+ }
+
+.contact-form{
+    padding-right:50px;
+    padding-left:50px;
+    padding-top:50px;
+}
+
+
+@media(width < 868px){
+    .contact{
+        grid-template-columns: 1fr;
+    }
+
+    .contact-form{
+        order: 2;
+    }
+}
+
+#pagar{
+    color:#0bde16 !important;
+}
+
+#descripcion{
+    resize:None;
+    border-radius: 8px !important;
+}
