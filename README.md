@@ -39,8 +39,8 @@
 # 📸 Screenshots:
 
 <div align="center">
-  <img src="https://github.com/DoctorBIOS1990/proyecto-aereolinea/blob/main/Screenshoot/screenShot1.JPG" width="150"/> 
-  <img src="https://github.com/DoctorBIOS1990/proyecto-aereolinea/blob/main/Screenshoot/screenShot2.JPG" width="150"/> 
-  <img src="https://github.com/DoctorBIOS1990/proyecto-aereolinea/blob/main/Screenshoot/screenShot3.JPG" width="150"/> 
-  <img src="https://github.com/DoctorBIOS1990/proyecto-aereolinea/blob/main/Screenshoot/screenShot4.JPG" width="150"/> 
+  <img src="https://github.com/DoctorBIOS1990/airline-project-spring/blob/main/(Screenshoot)/screenShot1.JPG" width="150"/> 
+  <img src="https://github.com/DoctorBIOS1990/airline-project-spring/blob/main/(Screenshoot)/screenShot2.JPG" width="150"/> 
+  <img src="https://github.com/DoctorBIOS1990/airline-project-spring/blob/main/(Screenshoot)/screenShot3.JPG" width="150"/> 
+  <img src="https://github.com/DoctorBIOS1990/airline-project-spring/blob/main/(Screenshoot)/screenShot4.JPG" width="150"/> 
 </div>
