@@ -36,6 +36,13 @@
   As an example, flight number 757 is made up of three segments: the first from Montevideo to Miami, the second from Miami to London and the third from London to Milan.
   Different fares can be applied to the segments. Each fare is identified by its name and has a description. Examples of fare names are: Economy, First Class, Web Fare, Youth Fare, etc.</p>
 
+# Lenguajes | Tecnologias | Herramientas
+:heavy_check_mark:<strong> Frontend: </strong> HTML5 | CSS | Javascript | Bootstrap</br>
+:heavy_check_mark:<strong> Backend: </strong> Java 21 | JPQL </br>
+:heavy_check_mark:<strong> Base Datos: </strong> MySQL </br>
+:heavy_check_mark:<strong> Tecnologias: </strong> SpringBoot | Spring JPA | Spring Security | Thymeleaf | Apache Maven
+
+
 # 📸 Screenshots:
 
 <div align="center">
