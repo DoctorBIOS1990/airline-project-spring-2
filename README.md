@@ -40,8 +40,8 @@
 :heavy_check_mark:<strong> Frontend: </strong> HTML5 | CSS | Javascript | Bootstrap</br>
 :heavy_check_mark:<strong> Backend: </strong> Java 21 | JPQL </br>
 :heavy_check_mark:<strong> Base Datos: </strong> MySQL </br>
-:heavy_check_mark:<strong> Tecnologias: </strong> SpringBoot | Spring JPA | Spring Security | Thymeleaf | Apache Maven
-
+:heavy_check_mark:<strong> Tecnologias: </strong> SpringBoot | Spring JPA | Hibernate | Spring Security | Thymeleaf | Spring DevTools | Apache Maven </br>
+:heavy_check_mark:<strong> Herramientas: </strong> MySQl WorkBench | IntellijIDEA | Visual Paradigm </br>
 
 # 📸 Screenshots:
 
