@@ -41,7 +41,7 @@
 :heavy_check_mark:<strong> Backend: </strong> Java 21 | JPQL </br>
 :heavy_check_mark:<strong> Base Datos: </strong> MySQL </br>
 :heavy_check_mark:<strong> Tecnologias: </strong> SpringBoot | Spring JPA | Hibernate | Spring Security | Thymeleaf | Spring DevTools | Apache Maven </br>
-:heavy_check_mark:<strong> Herramientas: </strong> MySQl WorkBench | IntellijIDEA | Visual Paradigm | Draw.IO</br>
+:heavy_check_mark:<strong> Herramientas: </strong> MySQl WorkBench | IntellijIDEA | Postman | Visual Paradigm | Draw.IO</br>
 
 <strong> Implementaciones: </strong> DAO pattern, ApiRESTFull
 # 📸 Screenshots:
