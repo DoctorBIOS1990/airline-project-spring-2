@@ -43,7 +43,7 @@
 :heavy_check_mark:<strong> Tecnologias: </strong> SpringBoot | Spring JPA | Hibernate | Spring Security | Thymeleaf | Spring DevTools | Apache Maven </br>
 :heavy_check_mark:<strong> Herramientas: </strong> MySQl WorkBench | IntellijIDEA | Postman | Visual Paradigm | Draw.IO</br>
 
-<strong> Implementaciones: </strong> DAO pattern, ApiRESTFull
+<strong> Implementaciones: </strong> MVC, DAO pattern, ApiRESTFull
 # 📸 Screenshots:
 
 <div align="center">
